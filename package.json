@@ -9,11 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.10.0",
+    "@mui/styled-engine-sc": "^5.10.0",
+    "@types/material-ui": "^0.21.12",
+    "axios": "^0.27.2",
     "next": "12.2.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-edit-text": "^5.0.2",
+    "styled-components": "^5.3.5"
   },
   "devDependencies": {
+    "@types/react-edit-text": "^5.0.1",
     "eslint": "8.21.0",
     "eslint-config-next": "12.2.4"
   }

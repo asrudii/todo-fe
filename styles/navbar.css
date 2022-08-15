@@ -1,0 +1,18 @@
+.nav {
+  background-color: #16abf8;
+  height: 105px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0 220px;
+}
+
+.nav-title {
+  font-weight: 700;
+  font-size: 24px;
+  color: white;
+}
+
+.nav-title:hover {
+  cursor: pointer;
+}
